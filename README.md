@@ -9,5 +9,5 @@
 -> Run the command "react-native run-ios" to start the project
 
 ## For Android
--> setup the gradle by building the project using Android Studio
+-> setup the gradle by building the project using Android Studio \n
 -> Run the command "react-native run-android" to start the project
